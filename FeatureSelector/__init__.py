@@ -1,1 +1,2 @@
 from FeatureSelector.FeatureSelector import Mlp
+from FeatureSelector.FeatureSelector import FeatureSelector
